@@ -1,0 +1,9 @@
+char:		1 bytes = 8 bits
+short:		2 bytes = 16 bits
+int:		4 bytes = 32 bits
+unsigned int:	4 bytes = 32 bits
+long:		4 bytes = 32 bits
+long long:	8 bytes = 64 bits
+float:		4 bytes = 32 bits
+double:		8 bytes = 64 bits
+long double:	16 bytes = 128 bits
